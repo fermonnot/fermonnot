@@ -7,7 +7,7 @@ Hi there, I'm <b>Fernando Monnot</b> 👋.
 
 
 
-I've been coding for a short time, recently graduated from <a href="http://www.4geeksacademy.com">4geeks Fullstack Bootcamp</a> I'm interested about integrating libraries to build remarkable projects and web applications. Feel free to reach me here:
+Recently graduated from <a href="http://www.4geeksacademy.com">4Geeks Academy Fullstack Bootcamp</a> I'm Industrian Engineer, interested in integrating libraries to build remarkable projects and web applications. Feel free to reach me here:
 
 
 
